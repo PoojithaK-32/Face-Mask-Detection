@@ -1,2 +1,3 @@
 # Face-Mask-Detection
-This is my first GitHub Repository
+This is my first GitHub Repository.
+Author - Sai Poojitha Kokkalla
